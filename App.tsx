@@ -1,4 +1,4 @@
-import { ThemeProvider } from "styled-components/native";
+import { ThemeProvider } from 'styled-components/native';
 
 import theme from './src/theme';
 
